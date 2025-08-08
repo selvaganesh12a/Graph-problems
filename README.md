@@ -1,5 +1,5 @@
 DSA-Graph-Problems
-Monkey Climb Down problem
+1. Monkey Climb Down problem
 There are total n number of Monkeys sitting on the branches of a huge Tree. As travelers offer Bananas and Peanuts, the Monkeys jump down the Tree. If every Monkey can eat k Bananas and j Peanuts. If total m number of Bananas and p number of Peanuts are offered by travelers, calculate how many Monkeys remain on the Tree after some of them jumped down to eat.
 
 At a time one Monkeys gets down and finishes eating and go to the other side of the road. The Monkey who climbed down does not climb up again after eating until the other Monkeys finish eating. Monkey can either eat k Bananas or j Peanuts. If for last Monkey there are less than k Bananas left on the ground or less than j Peanuts left on the ground, only that Monkey can eat Bananas(<k) along with the Peanuts(<j).
@@ -92,7 +92,7 @@ Component 2: MST Edges: T-U(2), S-T(3) Total Cost: 5
 
 ================================================================================================
 
-The Indian Railway Network is planning to lay down new train tracks between cities to form a minimum cost railway network that connects all the cities directly or indirectly, avoiding any circular connections (i.e., loops).
+3. The Indian Railway Network is planning to lay down new train tracks between cities to form a minimum cost railway network that connects all the cities directly or indirectly, avoiding any circular connections (i.e., loops).
 
 You are given a list of cities, and the cost to build a train track between each pair of cities.
 
